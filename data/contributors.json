@@ -53,7 +53,7 @@
     "twitter_username": null,
     "location": "New York, United States",
     "public_repos": 41,
-    "followers": 5
+    "followers": 6
   },
   {
     "login": "navin-oss",
@@ -165,7 +165,7 @@
     "twitter_username": null,
     "location": "GORAKHPUR , UTTAR PRADESH",
     "public_repos": 66,
-    "followers": 28
+    "followers": 29
   },
   {
     "login": "VedantBudhabaware",
@@ -206,7 +206,7 @@
     "blog": "https://www.suvam.codes",
     "twitter_username": null,
     "location": "Fulia, Nadia, West Bengal",
-    "public_repos": 83,
+    "public_repos": 82,
     "followers": 24
   },
   {
@@ -221,7 +221,7 @@
     "twitter_username": null,
     "location": "Bhubaneswar, Odisha",
     "public_repos": 82,
-    "followers": 48
+    "followers": 47
   },
   {
     "login": "Shalini828",
@@ -333,7 +333,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 0,
-    "followers": 5156
+    "followers": 5158
   },
   {
     "login": "udaykiran243",
@@ -375,7 +375,7 @@
     "twitter_username": null,
     "location": "Bihar, India",
     "public_repos": 145,
-    "followers": 65
+    "followers": 64
   },
   {
     "login": "Arman-op",
@@ -403,7 +403,7 @@
     "twitter_username": null,
     "location": "Earth",
     "public_repos": 13,
-    "followers": 37
+    "followers": 36
   },
   {
     "login": "GauravKarakoti",
@@ -444,8 +444,8 @@
     "blog": "",
     "twitter_username": null,
     "location": null,
-    "public_repos": 36,
-    "followers": 44
+    "public_repos": 35,
+    "followers": 45
   },
   {
     "login": "sudiptok19",
@@ -472,7 +472,7 @@
     "blog": "",
     "twitter_username": null,
     "location": null,
-    "public_repos": 68,
+    "public_repos": 69,
     "followers": 2
   }
 ]
