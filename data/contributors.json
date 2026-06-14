@@ -4,7 +4,7 @@
     "id": 181471078,
     "avatar_url": "https://avatars.githubusercontent.com/u/181471078?v=4",
     "html_url": "https://github.com/Nitya-003",
-    "contributions": 179,
+    "contributions": 181,
     "name": "Nitya Gosain",
     "bio": "CSE student | DSA enthusiast | Blockchain & Full Stack Developer | Building, learning, and solving one problem at a time.",
     "blog": "",
@@ -25,7 +25,7 @@
     "twitter_username": "Rishima_17",
     "location": "Amritsar,Punjab",
     "public_repos": 28,
-    "followers": 20
+    "followers": 21
   },
   {
     "login": "Lalitya31",
@@ -38,7 +38,7 @@
     "blog": "https://lalitya31.github.io/lalityadodla-portfolio/",
     "twitter_username": null,
     "location": null,
-    "public_repos": 40,
+    "public_repos": 41,
     "followers": 1
   },
   {
@@ -67,7 +67,7 @@
     "twitter_username": null,
     "location": "Sangli",
     "public_repos": 75,
-    "followers": 19
+    "followers": 20
   },
   {
     "login": "Yashaswini-V21",
@@ -165,7 +165,7 @@
     "twitter_username": null,
     "location": "GORAKHPUR , UTTAR PRADESH",
     "public_repos": 66,
-    "followers": 29
+    "followers": 28
   },
   {
     "login": "VedantBudhabaware",
@@ -192,7 +192,7 @@
     "blog": "http://arunng2004.github.io/",
     "twitter_username": null,
     "location": null,
-    "public_repos": 77,
+    "public_repos": 78,
     "followers": 17
   },
   {
@@ -205,9 +205,23 @@
     "bio": "Building @FixFlowAI | Lead Project Advisor @bunchhh.com | Full Stack Developer | AWS | Open Source contributor\r\n",
     "blog": "https://www.suvam.codes",
     "twitter_username": null,
-    "location": "Fulia, Nadia, West Bengal",
-    "public_repos": 82,
+    "location": "Kolkata, West Bengal",
+    "public_repos": 81,
     "followers": 24
+  },
+  {
+    "login": "Shalini828",
+    "id": 221092454,
+    "avatar_url": "https://avatars.githubusercontent.com/u/221092454?v=4",
+    "html_url": "https://github.com/Shalini828",
+    "contributions": 6,
+    "name": "Shalini Kumari",
+    "bio": null,
+    "blog": "",
+    "twitter_username": null,
+    "location": "Delhi, India",
+    "public_repos": 61,
+    "followers": 0
   },
   {
     "login": "shrixtacy",
@@ -224,18 +238,18 @@
     "followers": 48
   },
   {
-    "login": "Shalini828",
-    "id": 221092454,
-    "avatar_url": "https://avatars.githubusercontent.com/u/221092454?v=4",
-    "html_url": "https://github.com/Shalini828",
-    "contributions": 6,
-    "name": "Shalini Kumari",
+    "login": "Aditya-18849",
+    "id": 201630182,
+    "avatar_url": "https://avatars.githubusercontent.com/u/201630182?v=4",
+    "html_url": "https://github.com/Aditya-18849",
+    "contributions": 5,
+    "name": "Aditya Patra",
     "bio": null,
     "blog": "",
     "twitter_username": null,
-    "location": "Delhi, India",
-    "public_repos": 60,
-    "followers": 0
+    "location": null,
+    "public_repos": 21,
+    "followers": 2
   },
   {
     "login": "google-labs-jules[bot]",
@@ -252,20 +266,6 @@
     "followers": 0
   },
   {
-    "login": "Aditya-18849",
-    "id": 201630182,
-    "avatar_url": "https://avatars.githubusercontent.com/u/201630182?v=4",
-    "html_url": "https://github.com/Aditya-18849",
-    "contributions": 5,
-    "name": "Aditya Patra",
-    "bio": null,
-    "blog": "",
-    "twitter_username": null,
-    "location": null,
-    "public_repos": 21,
-    "followers": 2
-  },
-  {
     "login": "omkarhole",
     "id": 182200831,
     "avatar_url": "https://avatars.githubusercontent.com/u/182200831?v=4",
@@ -276,7 +276,7 @@
     "blog": "https://www.omkarhole.xyz/",
     "twitter_username": null,
     "location": "india",
-    "public_repos": 67,
+    "public_repos": 68,
     "followers": 10
   },
   {
@@ -291,7 +291,7 @@
     "twitter_username": null,
     "location": "Kolkata",
     "public_repos": 73,
-    "followers": 19
+    "followers": 18
   },
   {
     "login": "NithinRegidi",
@@ -322,18 +322,18 @@
     "followers": 10
   },
   {
-    "login": "parthsahay24",
-    "id": 118983535,
-    "avatar_url": "https://avatars.githubusercontent.com/u/118983535?v=4",
-    "html_url": "https://github.com/parthsahay24",
+    "login": "actions-user",
+    "id": 65916846,
+    "avatar_url": "https://avatars.githubusercontent.com/u/65916846?v=4",
+    "html_url": "https://github.com/actions-user",
     "contributions": 2,
-    "name": "Parth Sahay",
-    "bio": "AI Engineer",
-    "blog": "https://www.algoworks.com/",
+    "name": null,
+    "bio": null,
+    "blog": "https://github.com/actions",
     "twitter_username": null,
-    "location": "Remote",
-    "public_repos": 27,
-    "followers": 1
+    "location": null,
+    "public_repos": 0,
+    "followers": 5179
   },
   {
     "login": "udaykiran243",
@@ -350,116 +350,60 @@
     "followers": 5
   },
   {
-    "login": "actions-user",
-    "id": 65916846,
-    "avatar_url": "https://avatars.githubusercontent.com/u/65916846?v=4",
-    "html_url": "https://github.com/actions-user",
+    "login": "rach-kanc",
+    "id": 205029089,
+    "avatar_url": "https://avatars.githubusercontent.com/u/205029089?v=4",
+    "html_url": "https://github.com/rach-kanc",
     "contributions": 2,
-    "name": null,
-    "bio": null,
-    "blog": "https://github.com/actions",
+    "name": "RACHKANC",
+    "bio": "Computer Science Engineering\r\nstudent, Google Student\r\nAmbassador, and IEEE Member\r\nwith a strong foundation in Python,\r\nSQL, C, DSA and DBMS.",
+    "blog": "https://portfolio-beta-nine-4um2ztuguj.vercel.app/",
     "twitter_username": null,
     "location": null,
-    "public_repos": 0,
-    "followers": 5166
+    "public_repos": 15,
+    "followers": 6
   },
   {
-    "login": "tejask011",
-    "id": 204580532,
-    "avatar_url": "https://avatars.githubusercontent.com/u/204580532?v=4",
-    "html_url": "https://github.com/tejask011",
-    "contributions": 1,
-    "name": null,
-    "bio": null,
-    "blog": "",
+    "login": "parthsahay24",
+    "id": 118983535,
+    "avatar_url": "https://avatars.githubusercontent.com/u/118983535?v=4",
+    "html_url": "https://github.com/parthsahay24",
+    "contributions": 2,
+    "name": "Parth Sahay",
+    "bio": "AI Engineer",
+    "blog": "https://www.algoworks.com/",
     "twitter_username": null,
-    "location": null,
-    "public_repos": 73,
-    "followers": 2
+    "location": "Remote",
+    "public_repos": 27,
+    "followers": 1
   },
   {
-    "login": "sudiptok19",
-    "id": 179443128,
-    "avatar_url": "https://avatars.githubusercontent.com/u/179443128?v=4",
-    "html_url": "https://github.com/sudiptok19",
+    "login": "AshutoshDash1999",
+    "id": 46455250,
+    "avatar_url": "https://avatars.githubusercontent.com/u/46455250?v=4",
+    "html_url": "https://github.com/AshutoshDash1999",
+    "contributions": 2,
+    "name": "Ashutosh Dash",
+    "bio": "Frontend Developer ",
+    "blog": "https://ashutoshdash.in/?utm_source=github",
+    "twitter_username": "ashutoshdash99",
+    "location": "Bhubaneswar, Odisha, India",
+    "public_repos": 143,
+    "followers": 34
+  },
+  {
+    "login": "akshay0611",
+    "id": 82256067,
+    "avatar_url": "https://avatars.githubusercontent.com/u/82256067?v=4",
+    "html_url": "https://github.com/akshay0611",
     "contributions": 1,
-    "name": null,
-    "bio": null,
-    "blog": "",
+    "name": "Akshay Kumar ",
+    "bio": "Experienced Full-Stack Developer | Building Scalable MERN, AI/ML & Cloud Solutions",
+    "blog": "https://connectwithakshay.netlify.app/",
     "twitter_username": null,
-    "location": null,
-    "public_repos": 12,
-    "followers": 0
-  },
-  {
-    "login": "divi-24",
-    "id": 173360271,
-    "avatar_url": "https://avatars.githubusercontent.com/u/173360271?v=4",
-    "html_url": "https://github.com/divi-24",
-    "contributions": 1,
-    "name": "Divi",
-    "bio": "Breaking Bugs , Building Dreams",
-    "blog": "",
-    "twitter_username": null,
-    "location": null,
-    "public_repos": 36,
-    "followers": 45
-  },
-  {
-    "login": "Ysh2006-ai",
-    "id": 175289001,
-    "avatar_url": "https://avatars.githubusercontent.com/u/175289001?v=4",
-    "html_url": "https://github.com/Ysh2006-ai",
-    "contributions": 1,
-    "name": "Yash Yadav",
-    "bio": "B.Tech CSE’28 | GSSoC’25 | Web Development with AI Aficionado | Python & C Enthusiast | Exploring Cybersecurity",
-    "blog": "https://portfolio-yk28.vercel.app/",
-    "twitter_username": null,
-    "location": "India",
-    "public_repos": 21,
-    "followers": 5
-  },
-  {
-    "login": "Hridyaa-07",
-    "id": 274771924,
-    "avatar_url": "https://avatars.githubusercontent.com/u/274771924?v=4",
-    "html_url": "https://github.com/Hridyaa-07",
-    "contributions": 1,
-    "name": null,
-    "bio": null,
-    "blog": "",
-    "twitter_username": null,
-    "location": null,
-    "public_repos": 6,
-    "followers": 0
-  },
-  {
-    "login": "GauravKarakoti",
-    "id": 180496085,
-    "avatar_url": "https://avatars.githubusercontent.com/u/180496085?v=4",
-    "html_url": "https://github.com/GauravKarakoti",
-    "contributions": 1,
-    "name": "Gaurav Karakoti",
-    "bio": "2nd Year B.Tech CSE student at Bharati Vidyapeeth's College of Engineering , Delhi",
-    "blog": "https://gauravkarakoti.netlify.app",
-    "twitter_username": "GauravKara_koti",
-    "location": "Delhi , India",
-    "public_repos": 64,
-    "followers": 21
-  },
-  {
-    "login": "Dronzer2code",
-    "id": 179497926,
-    "avatar_url": "https://avatars.githubusercontent.com/u/179497926?v=4",
-    "html_url": "https://github.com/Dronzer2code",
-    "contributions": 1,
-    "name": "Subarna Maity",
-    "bio": null,
-    "blog": "",
-    "twitter_username": null,
-    "location": "Earth",
-    "public_repos": 13,
-    "followers": 36
+    "location": "Bihar, India",
+    "public_repos": 145,
+    "followers": 65
   },
   {
     "login": "Arman-op",
@@ -476,17 +420,101 @@
     "followers": 4
   },
   {
-    "login": "akshay0611",
-    "id": 82256067,
-    "avatar_url": "https://avatars.githubusercontent.com/u/82256067?v=4",
-    "html_url": "https://github.com/akshay0611",
+    "login": "Dronzer2code",
+    "id": 179497926,
+    "avatar_url": "https://avatars.githubusercontent.com/u/179497926?v=4",
+    "html_url": "https://github.com/Dronzer2code",
     "contributions": 1,
-    "name": "Akshay Kumar ",
-    "bio": "Experienced Full-Stack Developer | Building Scalable MERN, AI/ML & Cloud Solutions",
-    "blog": "https://connectwithakshay.netlify.app/",
+    "name": "Subarna Maity",
+    "bio": null,
+    "blog": "",
     "twitter_username": null,
-    "location": "Bihar, India",
-    "public_repos": 145,
-    "followers": 65
+    "location": "Earth",
+    "public_repos": 13,
+    "followers": 36
+  },
+  {
+    "login": "GauravKarakoti",
+    "id": 180496085,
+    "avatar_url": "https://avatars.githubusercontent.com/u/180496085?v=4",
+    "html_url": "https://github.com/GauravKarakoti",
+    "contributions": 1,
+    "name": "Gaurav Karakoti",
+    "bio": "2nd Year B.Tech CSE student at Bharati Vidyapeeth's College of Engineering , Delhi",
+    "blog": "https://gauravkarakoti.netlify.app",
+    "twitter_username": "GauravKara_koti",
+    "location": "Delhi , India",
+    "public_repos": 64,
+    "followers": 21
+  },
+  {
+    "login": "Hridyaa-07",
+    "id": 274771924,
+    "avatar_url": "https://avatars.githubusercontent.com/u/274771924?v=4",
+    "html_url": "https://github.com/Hridyaa-07",
+    "contributions": 1,
+    "name": null,
+    "bio": null,
+    "blog": "",
+    "twitter_username": null,
+    "location": null,
+    "public_repos": 6,
+    "followers": 0
+  },
+  {
+    "login": "Ysh2006-ai",
+    "id": 175289001,
+    "avatar_url": "https://avatars.githubusercontent.com/u/175289001?v=4",
+    "html_url": "https://github.com/Ysh2006-ai",
+    "contributions": 1,
+    "name": "Yash Yadav",
+    "bio": "B.Tech CSE’28 | GSSoC’25 | Web Development with AI Aficionado | Python & C Enthusiast | Exploring Cybersecurity",
+    "blog": "https://portfolio-yk28.vercel.app/",
+    "twitter_username": null,
+    "location": "India",
+    "public_repos": 21,
+    "followers": 4
+  },
+  {
+    "login": "divi-24",
+    "id": 173360271,
+    "avatar_url": "https://avatars.githubusercontent.com/u/173360271?v=4",
+    "html_url": "https://github.com/divi-24",
+    "contributions": 1,
+    "name": "Divi",
+    "bio": "Breaking Bugs , Building Dreams",
+    "blog": "",
+    "twitter_username": null,
+    "location": null,
+    "public_repos": 36,
+    "followers": 45
+  },
+  {
+    "login": "sudiptok19",
+    "id": 179443128,
+    "avatar_url": "https://avatars.githubusercontent.com/u/179443128?v=4",
+    "html_url": "https://github.com/sudiptok19",
+    "contributions": 1,
+    "name": null,
+    "bio": null,
+    "blog": "",
+    "twitter_username": null,
+    "location": null,
+    "public_repos": 12,
+    "followers": 0
+  },
+  {
+    "login": "tejask011",
+    "id": 204580532,
+    "avatar_url": "https://avatars.githubusercontent.com/u/204580532?v=4",
+    "html_url": "https://github.com/tejask011",
+    "contributions": 1,
+    "name": null,
+    "bio": null,
+    "blog": "",
+    "twitter_username": null,
+    "location": null,
+    "public_repos": 75,
+    "followers": 2
   }
 ]
