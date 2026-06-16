@@ -4,7 +4,7 @@
     "id": 181471078,
     "avatar_url": "https://avatars.githubusercontent.com/u/181471078?v=4",
     "html_url": "https://github.com/Nitya-003",
-    "contributions": 181,
+    "contributions": 182,
     "name": "Nitya Gosain",
     "bio": "CSE student | DSA enthusiast | Blockchain & Full Stack Developer | Building, learning, and solving one problem at a time.",
     "blog": "",
@@ -24,7 +24,7 @@
     "blog": "https://rishima-portfolio.vercel.app/",
     "twitter_username": "Rishima_17",
     "location": "Amritsar,Punjab",
-    "public_repos": 28,
+    "public_repos": 29,
     "followers": 21
   },
   {
@@ -80,7 +80,7 @@
     "blog": "",
     "twitter_username": null,
     "location": null,
-    "public_repos": 37,
+    "public_repos": 36,
     "followers": 4
   },
   {
@@ -146,7 +146,7 @@
     "html_url": "https://github.com/madhav2348",
     "contributions": 9,
     "name": "Madhav Majumdar",
-    "bio": "Trying to be a Dev ",
+    "bio": "Owner/Manager @----- Developer from heart",
     "blog": "",
     "twitter_username": "madhav_majumdar",
     "location": null,
@@ -196,6 +196,20 @@
     "followers": 17
   },
   {
+    "login": "rach-kanc",
+    "id": 205029089,
+    "avatar_url": "https://avatars.githubusercontent.com/u/205029089?v=4",
+    "html_url": "https://github.com/rach-kanc",
+    "contributions": 7,
+    "name": "RACHKANC",
+    "bio": "Computer Science Engineering\r\nstudent, Google Student\r\nAmbassador, and IEEE Member\r\nwith a strong foundation in Python,\r\nSQL, C, DSA and DBMS.",
+    "blog": "https://portfolio-beta-nine-4um2ztuguj.vercel.app/",
+    "twitter_username": null,
+    "location": null,
+    "public_repos": 15,
+    "followers": 6
+  },
+  {
     "login": "Suvam-paul145",
     "id": 178690510,
     "avatar_url": "https://avatars.githubusercontent.com/u/178690510?v=4",
@@ -208,20 +222,6 @@
     "location": "Kolkata, West Bengal",
     "public_repos": 81,
     "followers": 23
-  },
-  {
-    "login": "Shalini828",
-    "id": 221092454,
-    "avatar_url": "https://avatars.githubusercontent.com/u/221092454?v=4",
-    "html_url": "https://github.com/Shalini828",
-    "contributions": 6,
-    "name": "Shalini Kumari",
-    "bio": null,
-    "blog": "",
-    "twitter_username": null,
-    "location": "Delhi, India",
-    "public_repos": 61,
-    "followers": 0
   },
   {
     "login": "shrixtacy",
@@ -238,18 +238,18 @@
     "followers": 48
   },
   {
-    "login": "Aditya-18849",
-    "id": 201630182,
-    "avatar_url": "https://avatars.githubusercontent.com/u/201630182?v=4",
-    "html_url": "https://github.com/Aditya-18849",
-    "contributions": 5,
-    "name": "Aditya Patra",
+    "login": "Shalini828",
+    "id": 221092454,
+    "avatar_url": "https://avatars.githubusercontent.com/u/221092454?v=4",
+    "html_url": "https://github.com/Shalini828",
+    "contributions": 6,
+    "name": "Shalini Kumari",
     "bio": null,
     "blog": "",
     "twitter_username": null,
-    "location": null,
-    "public_repos": 21,
-    "followers": 2
+    "location": "Delhi, India",
+    "public_repos": 61,
+    "followers": 0
   },
   {
     "login": "google-labs-jules[bot]",
@@ -264,6 +264,20 @@
     "location": null,
     "public_repos": 0,
     "followers": 0
+  },
+  {
+    "login": "Aditya-18849",
+    "id": 201630182,
+    "avatar_url": "https://avatars.githubusercontent.com/u/201630182?v=4",
+    "html_url": "https://github.com/Aditya-18849",
+    "contributions": 5,
+    "name": "Aditya Patra",
+    "bio": null,
+    "blog": "",
+    "twitter_username": null,
+    "location": null,
+    "public_repos": 21,
+    "followers": 2
   },
   {
     "login": "omkarhole",
@@ -333,7 +347,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 0,
-    "followers": 5187
+    "followers": 5196
   },
   {
     "login": "udaykiran243",
@@ -348,20 +362,6 @@
     "location": "India",
     "public_repos": 48,
     "followers": 5
-  },
-  {
-    "login": "rach-kanc",
-    "id": 205029089,
-    "avatar_url": "https://avatars.githubusercontent.com/u/205029089?v=4",
-    "html_url": "https://github.com/rach-kanc",
-    "contributions": 2,
-    "name": "RACHKANC",
-    "bio": "Computer Science Engineering\r\nstudent, Google Student\r\nAmbassador, and IEEE Member\r\nwith a strong foundation in Python,\r\nSQL, C, DSA and DBMS.",
-    "blog": "https://portfolio-beta-nine-4um2ztuguj.vercel.app/",
-    "twitter_username": null,
-    "location": null,
-    "public_repos": 15,
-    "followers": 6
   },
   {
     "login": "parthsahay24",
@@ -388,7 +388,7 @@
     "blog": "https://ashutoshdash.in/?utm_source=github",
     "twitter_username": "ashutoshdash99",
     "location": "Bhubaneswar, Odisha, India",
-    "public_repos": 145,
+    "public_repos": 148,
     "followers": 34
   },
   {
@@ -403,7 +403,7 @@
     "twitter_username": null,
     "location": "Bihar, India",
     "public_repos": 145,
-    "followers": 65
+    "followers": 66
   },
   {
     "login": "Arman-op",
@@ -416,7 +416,7 @@
     "blog": "",
     "twitter_username": null,
     "location": "Noida",
-    "public_repos": 25,
+    "public_repos": 26,
     "followers": 4
   },
   {
@@ -473,7 +473,7 @@
     "twitter_username": null,
     "location": "India",
     "public_repos": 22,
-    "followers": 5
+    "followers": 6
   },
   {
     "login": "divi-24",
@@ -487,7 +487,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 36,
-    "followers": 45
+    "followers": 46
   },
   {
     "login": "sudiptok19",
