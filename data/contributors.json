@@ -4,7 +4,7 @@
     "id": 181471078,
     "avatar_url": "https://avatars.githubusercontent.com/u/181471078?v=4",
     "html_url": "https://github.com/Nitya-003",
-    "contributions": 182,
+    "contributions": 183,
     "name": "Nitya Gosain",
     "bio": "CSE student | DSA enthusiast | Blockchain & Full Stack Developer | Building, learning, and solving one problem at a time.",
     "blog": "",
@@ -38,7 +38,7 @@
     "blog": "https://lalitya31.github.io/lalityadodla-portfolio/",
     "twitter_username": null,
     "location": null,
-    "public_repos": 42,
+    "public_repos": 41,
     "followers": 1
   },
   {
@@ -67,7 +67,7 @@
     "twitter_username": null,
     "location": "Sangli",
     "public_repos": 75,
-    "followers": 20
+    "followers": 19
   },
   {
     "login": "Yashaswini-V21",
@@ -164,7 +164,7 @@
     "blog": "https://www.thakurshivamsingh.me",
     "twitter_username": null,
     "location": "GORAKHPUR , UTTAR PRADESH",
-    "public_repos": 67,
+    "public_repos": 68,
     "followers": 28
   },
   {
@@ -207,7 +207,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 15,
-    "followers": 6
+    "followers": 7
   },
   {
     "login": "Suvam-paul145",
@@ -224,20 +224,6 @@
     "followers": 23
   },
   {
-    "login": "shrixtacy",
-    "id": 183052305,
-    "avatar_url": "https://avatars.githubusercontent.com/u/183052305?v=4",
-    "html_url": "https://github.com/shrixtacy",
-    "contributions": 6,
-    "name": "Shriyansh Dash",
-    "bio": "Building things I believe in. Exploring AI, systems, design, and ideas that don’t always make sense until they do. Learning slow, building real.",
-    "blog": "www.shrixtacy.in",
-    "twitter_username": null,
-    "location": "Bhubaneswar, Odisha",
-    "public_repos": 82,
-    "followers": 48
-  },
-  {
     "login": "Shalini828",
     "id": 221092454,
     "avatar_url": "https://avatars.githubusercontent.com/u/221092454?v=4",
@@ -252,18 +238,18 @@
     "followers": 0
   },
   {
-    "login": "google-labs-jules[bot]",
-    "id": 161369871,
-    "avatar_url": "https://avatars.githubusercontent.com/in/842251?v=4",
-    "html_url": "https://github.com/apps/google-labs-jules",
-    "contributions": 5,
-    "name": null,
-    "bio": null,
-    "blog": "",
+    "login": "shrixtacy",
+    "id": 183052305,
+    "avatar_url": "https://avatars.githubusercontent.com/u/183052305?v=4",
+    "html_url": "https://github.com/shrixtacy",
+    "contributions": 6,
+    "name": "Shriyansh Dash",
+    "bio": "Building things I believe in. Exploring AI, systems, design, and ideas that don’t always make sense until they do. Learning slow, building real.",
+    "blog": "www.shrixtacy.in",
     "twitter_username": null,
-    "location": null,
-    "public_repos": 0,
-    "followers": 0
+    "location": "Bhubaneswar, Odisha",
+    "public_repos": 82,
+    "followers": 48
   },
   {
     "login": "Aditya-18849",
@@ -278,6 +264,20 @@
     "location": null,
     "public_repos": 21,
     "followers": 2
+  },
+  {
+    "login": "google-labs-jules[bot]",
+    "id": 161369871,
+    "avatar_url": "https://avatars.githubusercontent.com/in/842251?v=4",
+    "html_url": "https://github.com/apps/google-labs-jules",
+    "contributions": 5,
+    "name": null,
+    "bio": null,
+    "blog": "",
+    "twitter_username": null,
+    "location": null,
+    "public_repos": 0,
+    "followers": 0
   },
   {
     "login": "omkarhole",
@@ -305,7 +305,7 @@
     "twitter_username": null,
     "location": "Kolkata",
     "public_repos": 73,
-    "followers": 18
+    "followers": 19
   },
   {
     "login": "NithinRegidi",
@@ -333,7 +333,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 22,
-    "followers": 10
+    "followers": 21
   },
   {
     "login": "actions-user",
@@ -347,7 +347,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 0,
-    "followers": 5196
+    "followers": 5204
   },
   {
     "login": "udaykiran243",
@@ -389,7 +389,7 @@
     "twitter_username": "ashutoshdash99",
     "location": "Bhubaneswar, Odisha, India",
     "public_repos": 148,
-    "followers": 34
+    "followers": 33
   },
   {
     "login": "akshay0611",
@@ -488,6 +488,20 @@
     "location": null,
     "public_repos": 36,
     "followers": 46
+  },
+  {
+    "login": "khushboo-khatoon",
+    "id": 216391803,
+    "avatar_url": "https://avatars.githubusercontent.com/u/216391803?v=4",
+    "html_url": "https://github.com/khushboo-khatoon",
+    "contributions": 1,
+    "name": "Khushboo Khatoon ",
+    "bio": "Aspiring Java Full Stack Developer | Java | DSA | Frontend Developer | CSE ’2024–2028",
+    "blog": "",
+    "twitter_username": "KhushbooKh69219",
+    "location": "Meerut,UP,india",
+    "public_repos": 54,
+    "followers": 10
   },
   {
     "login": "sudiptok19",
