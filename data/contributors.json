@@ -4,7 +4,7 @@
     "id": 181471078,
     "avatar_url": "https://avatars.githubusercontent.com/u/181471078?v=4",
     "html_url": "https://github.com/Nitya-003",
-    "contributions": 187,
+    "contributions": 188,
     "name": "Nitya Gosain",
     "bio": "CSE student | DSA enthusiast | Blockchain & Full Stack Developer | Building, learning, and solving one problem at a time.",
     "blog": "",
@@ -151,7 +151,7 @@
     "twitter_username": "madhav_majumdar",
     "location": null,
     "public_repos": 73,
-    "followers": 15
+    "followers": 16
   },
   {
     "login": "Th-Shivam",
@@ -206,7 +206,7 @@
     "blog": "https://portfolio-beta-nine-4um2ztuguj.vercel.app/",
     "twitter_username": null,
     "location": null,
-    "public_repos": 16,
+    "public_repos": 18,
     "followers": 7
   },
   {
@@ -280,6 +280,20 @@
     "followers": 0
   },
   {
+    "login": "shri8977",
+    "id": 198091664,
+    "avatar_url": "https://avatars.githubusercontent.com/u/198091664?v=4",
+    "html_url": "https://github.com/shri8977",
+    "contributions": 5,
+    "name": "Shri Subashini M",
+    "bio": "Computer Science Student\r\nSSoC'26 Maintainer\r\nOpen Source Enthusiast\r\nLearning • Building • Contributing",
+    "blog": "https://www.linkedin.com/in/shri-subashini-m-9b76a4356",
+    "twitter_username": null,
+    "location": null,
+    "public_repos": 16,
+    "followers": 1
+  },
+  {
     "login": "omkarhole",
     "id": 182200831,
     "avatar_url": "https://avatars.githubusercontent.com/u/182200831?v=4",
@@ -332,7 +346,7 @@
     "blog": "https://ashutoshdash.in/?utm_source=github",
     "twitter_username": "ashutoshdash99",
     "location": "Bhubaneswar, Odisha, India",
-    "public_repos": 153,
+    "public_repos": 157,
     "followers": 33
   },
   {
@@ -347,7 +361,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 22,
-    "followers": 21
+    "followers": 19
   },
   {
     "login": "khushboo-khatoon",
@@ -364,20 +378,6 @@
     "followers": 10
   },
   {
-    "login": "shri8977",
-    "id": 198091664,
-    "avatar_url": "https://avatars.githubusercontent.com/u/198091664?v=4",
-    "html_url": "https://github.com/shri8977",
-    "contributions": 2,
-    "name": "Shri Subashini M",
-    "bio": "Computer Science Student\r\nSSoC'26 Maintainer\r\nOpen Source Enthusiast\r\nLearning • Building • Contributing",
-    "blog": "https://www.linkedin.com/in/shri-subashini-m-9b76a4356",
-    "twitter_username": null,
-    "location": null,
-    "public_repos": 16,
-    "followers": 1
-  },
-  {
     "login": "actions-user",
     "id": 65916846,
     "avatar_url": "https://avatars.githubusercontent.com/u/65916846?v=4",
@@ -389,7 +389,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 0,
-    "followers": 5217
+    "followers": 5224
   },
   {
     "login": "udaykiran243",
@@ -444,7 +444,7 @@
     "blog": "",
     "twitter_username": null,
     "location": "Noida",
-    "public_repos": 26,
+    "public_repos": 27,
     "followers": 4
   },
   {
