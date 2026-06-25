@@ -4,7 +4,7 @@
     "id": 181471078,
     "avatar_url": "https://avatars.githubusercontent.com/u/181471078?v=4",
     "html_url": "https://github.com/Nitya-003",
-    "contributions": 189,
+    "contributions": 190,
     "name": "Nitya Gosain",
     "bio": "CSE student | DSA enthusiast | Blockchain & Full Stack Developer | Building, learning, and solving one problem at a time.",
     "blog": "",
@@ -53,7 +53,7 @@
     "twitter_username": null,
     "location": "New York, United States",
     "public_repos": 41,
-    "followers": 8
+    "followers": 10
   },
   {
     "login": "navin-oss",
@@ -76,7 +76,7 @@
     "html_url": "https://github.com/Yashaswini-V21",
     "contributions": 24,
     "name": null,
-    "bio": "🚀 Building AI Data Products for Real Impact \r\n| 📊 DA&DS • GenAI • ☁️ GCP • AWS",
+    "bio": " Building AI Data Products for Real Impact \r\n| 📊 DA&DS • GenAI • ☁️ GCP • AWS",
     "blog": "",
     "twitter_username": null,
     "location": null,
@@ -150,7 +150,7 @@
     "blog": "https://www.thakurshivamsingh.me",
     "twitter_username": null,
     "location": "GORAKHPUR , UTTAR PRADESH",
-    "public_repos": 69,
+    "public_repos": 70,
     "followers": 30
   },
   {
@@ -165,7 +165,7 @@
     "twitter_username": "madhav_majumdar",
     "location": null,
     "public_repos": 74,
-    "followers": 20
+    "followers": 19
   },
   {
     "login": "VedantBudhabaware",
@@ -220,7 +220,7 @@
     "blog": "https://www.suvam.codes",
     "twitter_username": null,
     "location": "Kolkata, West Bengal",
-    "public_repos": 81,
+    "public_repos": 82,
     "followers": 24
   },
   {
@@ -248,7 +248,7 @@
     "blog": "",
     "twitter_username": null,
     "location": "Delhi, India",
-    "public_repos": 55,
+    "public_repos": 37,
     "followers": 0
   },
   {
@@ -388,7 +388,7 @@
     "blog": "",
     "twitter_username": null,
     "location": null,
-    "public_repos": 52,
+    "public_repos": 53,
     "followers": 0
   },
   {
@@ -431,7 +431,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 0,
-    "followers": 5249
+    "followers": 5253
   },
   {
     "login": "tejask011",
@@ -504,6 +504,20 @@
     "followers": 0
   },
   {
+    "login": "Harshita264",
+    "id": 114824488,
+    "avatar_url": "https://avatars.githubusercontent.com/u/114824488?v=4",
+    "html_url": "https://github.com/Harshita264",
+    "contributions": 1,
+    "name": "Harshita",
+    "bio": null,
+    "blog": "",
+    "twitter_username": null,
+    "location": null,
+    "public_repos": 16,
+    "followers": 1
+  },
+  {
     "login": "GauravKarakoti",
     "id": 180496085,
     "avatar_url": "https://avatars.githubusercontent.com/u/180496085?v=4",
@@ -514,7 +528,7 @@
     "blog": "https://gauravkarakoti.netlify.app",
     "twitter_username": "GauravKara_koti",
     "location": "Delhi , India",
-    "public_repos": 56,
+    "public_repos": 62,
     "followers": 21
   },
   {
@@ -557,6 +571,6 @@
     "twitter_username": null,
     "location": "Bihar, India",
     "public_repos": 146,
-    "followers": 67
+    "followers": 70
   }
 ]
