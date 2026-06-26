@@ -4,7 +4,7 @@
     "id": 181471078,
     "avatar_url": "https://avatars.githubusercontent.com/u/181471078?v=4",
     "html_url": "https://github.com/Nitya-003",
-    "contributions": 190,
+    "contributions": 192,
     "name": "Nitya Gosain",
     "bio": "CSE student | DSA enthusiast | Blockchain & Full Stack Developer | Building, learning, and solving one problem at a time.",
     "blog": "",
@@ -81,7 +81,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 36,
-    "followers": 5
+    "followers": 6
   },
   {
     "login": "vedhapprakashni",
@@ -220,7 +220,7 @@
     "blog": "https://www.suvam.codes",
     "twitter_username": null,
     "location": "Kolkata, West Bengal",
-    "public_repos": 82,
+    "public_repos": 77,
     "followers": 24
   },
   {
@@ -361,7 +361,21 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 22,
-    "followers": 11
+    "followers": 16
+  },
+  {
+    "login": "Harshita264",
+    "id": 114824488,
+    "avatar_url": "https://avatars.githubusercontent.com/u/114824488?v=4",
+    "html_url": "https://github.com/Harshita264",
+    "contributions": 3,
+    "name": "Harshita",
+    "bio": null,
+    "blog": "",
+    "twitter_username": null,
+    "location": null,
+    "public_repos": 17,
+    "followers": 1
   },
   {
     "login": "khushboo-khatoon",
@@ -431,7 +445,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 0,
-    "followers": 5253
+    "followers": 5259
   },
   {
     "login": "tejask011",
@@ -445,7 +459,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 77,
-    "followers": 2
+    "followers": 3
   },
   {
     "login": "sudiptok19",
@@ -487,7 +501,7 @@
     "twitter_username": null,
     "location": "India",
     "public_repos": 21,
-    "followers": 6
+    "followers": 10
   },
   {
     "login": "Hridyaa-07",
@@ -504,20 +518,6 @@
     "followers": 0
   },
   {
-    "login": "Harshita264",
-    "id": 114824488,
-    "avatar_url": "https://avatars.githubusercontent.com/u/114824488?v=4",
-    "html_url": "https://github.com/Harshita264",
-    "contributions": 1,
-    "name": "Harshita",
-    "bio": null,
-    "blog": "",
-    "twitter_username": null,
-    "location": null,
-    "public_repos": 16,
-    "followers": 1
-  },
-  {
     "login": "GauravKarakoti",
     "id": 180496085,
     "avatar_url": "https://avatars.githubusercontent.com/u/180496085?v=4",
@@ -528,7 +528,7 @@
     "blog": "https://gauravkarakoti.netlify.app",
     "twitter_username": "GauravKara_koti",
     "location": "Delhi , India",
-    "public_repos": 62,
+    "public_repos": 65,
     "followers": 21
   },
   {
@@ -571,6 +571,6 @@
     "twitter_username": null,
     "location": "Bihar, India",
     "public_repos": 146,
-    "followers": 70
+    "followers": 75
   }
 ]
