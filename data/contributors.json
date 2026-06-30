@@ -4,7 +4,7 @@
     "id": 181471078,
     "avatar_url": "https://avatars.githubusercontent.com/u/181471078?v=4",
     "html_url": "https://github.com/Nitya-003",
-    "contributions": 196,
+    "contributions": 197,
     "name": "Nitya Gosain",
     "bio": "CSE student | DSA enthusiast | Blockchain & Full Stack Developer | Building, learning, and solving one problem at a time.",
     "blog": "",
@@ -224,6 +224,20 @@
     "followers": 24
   },
   {
+    "login": "Harshita264",
+    "id": 114824488,
+    "avatar_url": "https://avatars.githubusercontent.com/u/114824488?v=4",
+    "html_url": "https://github.com/Harshita264",
+    "contributions": 6,
+    "name": "Harshita",
+    "bio": null,
+    "blog": "",
+    "twitter_username": null,
+    "location": null,
+    "public_repos": 17,
+    "followers": 1
+  },
+  {
     "login": "shrixtacy",
     "id": 183052305,
     "avatar_url": "https://avatars.githubusercontent.com/u/183052305?v=4",
@@ -276,7 +290,7 @@
     "blog": "",
     "twitter_username": "KhushbooKh69219",
     "location": "Meerut,UP,india",
-    "public_repos": 59,
+    "public_repos": 60,
     "followers": 11
   },
   {
@@ -292,20 +306,6 @@
     "location": null,
     "public_repos": 0,
     "followers": 0
-  },
-  {
-    "login": "Harshita264",
-    "id": 114824488,
-    "avatar_url": "https://avatars.githubusercontent.com/u/114824488?v=4",
-    "html_url": "https://github.com/Harshita264",
-    "contributions": 5,
-    "name": "Harshita",
-    "bio": null,
-    "blog": "",
-    "twitter_username": null,
-    "location": null,
-    "public_repos": 17,
-    "followers": 1
   },
   {
     "login": "Aditya-18849",
@@ -403,7 +403,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 0,
-    "followers": 5277
+    "followers": 5285
   },
   {
     "login": "udaykiran243",
@@ -500,7 +500,7 @@
     "blog": "https://gauravkarakoti.netlify.app",
     "twitter_username": "GauravKara_koti",
     "location": "Delhi , India",
-    "public_repos": 70,
+    "public_repos": 72,
     "followers": 22
   },
   {
