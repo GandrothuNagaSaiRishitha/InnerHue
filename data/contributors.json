@@ -4,7 +4,7 @@
     "id": 181471078,
     "avatar_url": "https://avatars.githubusercontent.com/u/181471078?v=4",
     "html_url": "https://github.com/Nitya-003",
-    "contributions": 199,
+    "contributions": 202,
     "name": "Nitya Gosain",
     "bio": "CSE student | DSA enthusiast | Blockchain & Full Stack Developer | Building, learning, and solving one problem at a time.",
     "blog": "",
@@ -81,7 +81,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 35,
-    "followers": 6
+    "followers": 7
   },
   {
     "login": "vedhapprakashni",
@@ -168,6 +168,20 @@
     "followers": 30
   },
   {
+    "login": "Harshita264",
+    "id": 114824488,
+    "avatar_url": "https://avatars.githubusercontent.com/u/114824488?v=4",
+    "html_url": "https://github.com/Harshita264",
+    "contributions": 9,
+    "name": "Harshita",
+    "bio": null,
+    "blog": "",
+    "twitter_username": null,
+    "location": null,
+    "public_repos": 17,
+    "followers": 1
+  },
+  {
     "login": "VedantBudhabaware",
     "id": 205757172,
     "avatar_url": "https://avatars.githubusercontent.com/u/205757172?v=4",
@@ -180,20 +194,6 @@
     "location": "India",
     "public_repos": 31,
     "followers": 3
-  },
-  {
-    "login": "Harshita264",
-    "id": 114824488,
-    "avatar_url": "https://avatars.githubusercontent.com/u/114824488?v=4",
-    "html_url": "https://github.com/Harshita264",
-    "contributions": 8,
-    "name": "Harshita",
-    "bio": null,
-    "blog": "",
-    "twitter_username": null,
-    "location": null,
-    "public_repos": 17,
-    "followers": 1
   },
   {
     "login": "ARUNNG2004",
@@ -319,7 +319,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 21,
-    "followers": 5
+    "followers": 4
   },
   {
     "login": "omkarhole",
@@ -389,7 +389,21 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 22,
-    "followers": 11
+    "followers": 24
+  },
+  {
+    "login": "sonal-jakhar",
+    "id": 204889016,
+    "avatar_url": "https://avatars.githubusercontent.com/u/204889016?v=4",
+    "html_url": "https://github.com/sonal-jakhar",
+    "contributions": 2,
+    "name": "Sonal Jakhar",
+    "bio": "Full-Stack Developer building AI-powered web apps | DSA & Problem Solving",
+    "blog": "",
+    "twitter_username": null,
+    "location": null,
+    "public_repos": 12,
+    "followers": 1
   },
   {
     "login": "actions-user",
@@ -403,7 +417,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 0,
-    "followers": 5306
+    "followers": 5307
   },
   {
     "login": "udaykiran243",
@@ -459,7 +473,7 @@
     "twitter_username": null,
     "location": "Bihar, India",
     "public_repos": 146,
-    "followers": 79
+    "followers": 80
   },
   {
     "login": "Arman-op",
@@ -474,6 +488,20 @@
     "location": "Noida",
     "public_repos": 27,
     "followers": 4
+  },
+  {
+    "login": "BhumikaHunachyali",
+    "id": 240180740,
+    "avatar_url": "https://avatars.githubusercontent.com/u/240180740?v=4",
+    "html_url": "https://github.com/BhumikaHunachyali",
+    "contributions": 1,
+    "name": "Bhumika Hunachyali",
+    "bio": "Someone who loves math and is curious about AI&ML. \r\nExploring Tech and open source contributor @SSOC'26 SEASON 5",
+    "blog": "",
+    "twitter_username": null,
+    "location": "SJB Institute of technology,Bengaluru ",
+    "public_repos": 10,
+    "followers": 1
   },
   {
     "login": "Dronzer2code",
@@ -500,7 +528,7 @@
     "blog": "https://gauravkarakoti.netlify.app",
     "twitter_username": "GauravKara_koti",
     "location": "Delhi , India",
-    "public_repos": 74,
+    "public_repos": 75,
     "followers": 22
   },
   {
@@ -529,7 +557,7 @@
     "twitter_username": null,
     "location": "India",
     "public_repos": 21,
-    "followers": 7
+    "followers": 19
   },
   {
     "login": "divi-24",
@@ -544,20 +572,6 @@
     "location": null,
     "public_repos": 36,
     "followers": 45
-  },
-  {
-    "login": "sonal-jakhar",
-    "id": 204889016,
-    "avatar_url": "https://avatars.githubusercontent.com/u/204889016?v=4",
-    "html_url": "https://github.com/sonal-jakhar",
-    "contributions": 1,
-    "name": "Sonal Jakhar",
-    "bio": "Full-Stack Developer building AI-powered web apps | DSA & Problem Solving",
-    "blog": "",
-    "twitter_username": null,
-    "location": null,
-    "public_repos": 12,
-    "followers": 1
   },
   {
     "login": "sudiptok19",
