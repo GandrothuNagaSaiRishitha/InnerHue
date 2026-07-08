@@ -4,13 +4,13 @@
     "id": 181471078,
     "avatar_url": "https://avatars.githubusercontent.com/u/181471078?v=4",
     "html_url": "https://github.com/Nitya-003",
-    "contributions": 202,
+    "contributions": 203,
     "name": "Nitya Gosain",
     "bio": "CSE student | DSA enthusiast | Blockchain & Full Stack Developer | Building, learning, and solving one problem at a time.",
     "blog": "",
     "twitter_username": null,
     "location": null,
-    "public_repos": 13,
+    "public_repos": 14,
     "followers": 59
   },
   {
@@ -81,7 +81,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 35,
-    "followers": 7
+    "followers": 0
   },
   {
     "login": "vedhapprakashni",
@@ -221,7 +221,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 24,
-    "followers": 8
+    "followers": 9
   },
   {
     "login": "Suvam-paul145",
@@ -392,6 +392,20 @@
     "followers": 22
   },
   {
+    "login": "MEHWISH310",
+    "id": 197863310,
+    "avatar_url": "https://avatars.githubusercontent.com/u/197863310?v=4",
+    "html_url": "https://github.com/MEHWISH310",
+    "contributions": 3,
+    "name": "Mehwish",
+    "bio": "B. Tech. student at Vellore Institute of Technology, Vellore from Computer Science and Engineering branch.",
+    "blog": "",
+    "twitter_username": null,
+    "location": null,
+    "public_repos": 54,
+    "followers": 1
+  },
+  {
     "login": "sonal-jakhar",
     "id": 204889016,
     "avatar_url": "https://avatars.githubusercontent.com/u/204889016?v=4",
@@ -417,7 +431,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 0,
-    "followers": 5336
+    "followers": 5342
   },
   {
     "login": "udaykiran243",
@@ -448,20 +462,6 @@
     "followers": 1
   },
   {
-    "login": "MEHWISH310",
-    "id": 197863310,
-    "avatar_url": "https://avatars.githubusercontent.com/u/197863310?v=4",
-    "html_url": "https://github.com/MEHWISH310",
-    "contributions": 2,
-    "name": "Mehwish",
-    "bio": "B. Tech. student at Vellore Institute of Technology, Vellore from Computer Science and Engineering branch.",
-    "blog": "",
-    "twitter_username": null,
-    "location": null,
-    "public_repos": 53,
-    "followers": 1
-  },
-  {
     "login": "akshay0611",
     "id": 82256067,
     "avatar_url": "https://avatars.githubusercontent.com/u/82256067?v=4",
@@ -473,7 +473,7 @@
     "twitter_username": null,
     "location": "Bihar, India",
     "public_repos": 146,
-    "followers": 82
+    "followers": 83
   },
   {
     "login": "Arman-op",
@@ -528,7 +528,7 @@
     "blog": "https://gauravkarakoti.netlify.app",
     "twitter_username": "GauravKara_koti",
     "location": "Delhi , India",
-    "public_repos": 76,
+    "public_repos": 77,
     "followers": 22
   },
   {
@@ -598,7 +598,7 @@
     "blog": "",
     "twitter_username": null,
     "location": null,
-    "public_repos": 77,
+    "public_repos": 78,
     "followers": 3
   }
 ]
