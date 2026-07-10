@@ -38,7 +38,7 @@
     "blog": "https://lalitya31.github.io/lalityadodla-portfolio/",
     "twitter_username": null,
     "location": null,
-    "public_repos": 41,
+    "public_repos": 42,
     "followers": 1
   },
   {
@@ -80,8 +80,8 @@
     "blog": "",
     "twitter_username": null,
     "location": null,
-    "public_repos": 35,
-    "followers": 0
+    "public_repos": 37,
+    "followers": 8
   },
   {
     "login": "vedhapprakashni",
@@ -344,7 +344,7 @@
     "name": "Ayush Kumar",
     "bio": "code can be rebuild, people cannot. Kinda 8x hacks winner",
     "blog": "https://kumarayush26.vercel.app/",
-    "twitter_username": null,
+    "twitter_username": "notmuchayush",
     "location": "Kolkata",
     "public_repos": 76,
     "followers": 18
@@ -445,7 +445,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 0,
-    "followers": 5345
+    "followers": 5347
   },
   {
     "login": "sonal-jakhar",
@@ -501,7 +501,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 33,
-    "followers": 45
+    "followers": 44
   },
   {
     "login": "Ysh2006-ai",
@@ -556,7 +556,7 @@
     "blog": "https://gauravkarakoti.netlify.app",
     "twitter_username": "GauravKara_koti",
     "location": "Delhi , India",
-    "public_repos": 77,
+    "public_repos": 78,
     "followers": 22
   },
   {
@@ -613,6 +613,6 @@
     "twitter_username": null,
     "location": "Bihar, India",
     "public_repos": 146,
-    "followers": 83
+    "followers": 84
   }
 ]
