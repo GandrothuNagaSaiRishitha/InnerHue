@@ -4,13 +4,13 @@
     "id": 181471078,
     "avatar_url": "https://avatars.githubusercontent.com/u/181471078?v=4",
     "html_url": "https://github.com/Nitya-003",
-    "contributions": 204,
+    "contributions": 207,
     "name": "Nitya Gosain",
     "bio": "CSE student | DSA enthusiast | Blockchain & Full Stack Developer | Building, learning, and solving one problem at a time.",
     "blog": "",
     "twitter_username": null,
     "location": null,
-    "public_repos": 14,
+    "public_repos": 13,
     "followers": 59
   },
   {
@@ -126,6 +126,20 @@
     "followers": 2
   },
   {
+    "login": "Harshita264",
+    "id": 114824488,
+    "avatar_url": "https://avatars.githubusercontent.com/u/114824488?v=4",
+    "html_url": "https://github.com/Harshita264",
+    "contributions": 11,
+    "name": "Harshita",
+    "bio": null,
+    "blog": "",
+    "twitter_username": null,
+    "location": null,
+    "public_repos": 18,
+    "followers": 1
+  },
+  {
     "login": "mdashad0",
     "id": 230215489,
     "avatar_url": "https://avatars.githubusercontent.com/u/230215489?v=4",
@@ -138,20 +152,6 @@
     "location": "pune Mahrastra",
     "public_repos": 41,
     "followers": 2
-  },
-  {
-    "login": "Harshita264",
-    "id": 114824488,
-    "avatar_url": "https://avatars.githubusercontent.com/u/114824488?v=4",
-    "html_url": "https://github.com/Harshita264",
-    "contributions": 9,
-    "name": "Harshita",
-    "bio": null,
-    "blog": "",
-    "twitter_username": null,
-    "location": null,
-    "public_repos": 18,
-    "followers": 1
   },
   {
     "login": "Th-Shivam",
@@ -361,7 +361,7 @@
     "twitter_username": null,
     "location": "india",
     "public_repos": 68,
-    "followers": 11
+    "followers": 10
   },
   {
     "login": "AshutoshDash1999",
@@ -402,7 +402,7 @@
     "blog": "",
     "twitter_username": null,
     "location": null,
-    "public_repos": 55,
+    "public_repos": 56,
     "followers": 1
   },
   {
@@ -445,7 +445,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 0,
-    "followers": 5356
+    "followers": 5363
   },
   {
     "login": "sonal-jakhar",
@@ -557,7 +557,7 @@
     "twitter_username": "GauravKara_koti",
     "location": "Delhi , India",
     "public_repos": 78,
-    "followers": 22
+    "followers": 23
   },
   {
     "login": "Dronzer2code",
