@@ -151,7 +151,7 @@
     "twitter_username": null,
     "location": "pune Mahrastra",
     "public_repos": 41,
-    "followers": 2
+    "followers": 3
   },
   {
     "login": "Th-Shivam",
@@ -249,7 +249,7 @@
     "twitter_username": null,
     "location": "Bhubaneswar, Odisha",
     "public_repos": 82,
-    "followers": 48
+    "followers": 47
   },
   {
     "login": "Shalini828",
@@ -262,7 +262,7 @@
     "blog": "",
     "twitter_username": null,
     "location": "Delhi, India",
-    "public_repos": 42,
+    "public_repos": 43,
     "followers": 0
   },
   {
@@ -431,7 +431,7 @@
     "twitter_username": null,
     "location": "India",
     "public_repos": 48,
-    "followers": 5
+    "followers": 6
   },
   {
     "login": "actions-user",
@@ -445,7 +445,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 0,
-    "followers": 5384
+    "followers": 5390
   },
   {
     "login": "sonal-jakhar",
@@ -458,7 +458,7 @@
     "blog": "",
     "twitter_username": null,
     "location": null,
-    "public_repos": 13,
+    "public_repos": 14,
     "followers": 1
   },
   {
@@ -556,7 +556,7 @@
     "blog": "https://gauravkarakoti.netlify.app",
     "twitter_username": "GauravKara_koti",
     "location": "Delhi , India",
-    "public_repos": 78,
+    "public_repos": 60,
     "followers": 23
   },
   {
@@ -613,6 +613,6 @@
     "twitter_username": null,
     "location": "Bihar, India",
     "public_repos": 147,
-    "followers": 84
+    "followers": 83
   }
 ]
