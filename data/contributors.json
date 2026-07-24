@@ -4,7 +4,7 @@
     "id": 181471078,
     "avatar_url": "https://avatars.githubusercontent.com/u/181471078?v=4",
     "html_url": "https://github.com/Nitya-003",
-    "contributions": 210,
+    "contributions": 211,
     "name": "Nitya Gosain",
     "bio": "CSE student | Intern@CSIR-NPL | DSA enthusiast | Blockchain & Full Stack Developer | Building, learning, and solving one problem at a time.",
     "blog": "",
@@ -112,18 +112,18 @@
     "followers": 20
   },
   {
-    "login": "Harshita264",
-    "id": 114824488,
-    "avatar_url": "https://avatars.githubusercontent.com/u/114824488?v=4",
-    "html_url": "https://github.com/Harshita264",
-    "contributions": 13,
-    "name": "Harshita",
-    "bio": null,
-    "blog": "",
+    "login": "shri8977",
+    "id": 198091664,
+    "avatar_url": "https://avatars.githubusercontent.com/u/198091664?v=4",
+    "html_url": "https://github.com/shri8977",
+    "contributions": 14,
+    "name": "Shri Subashini M",
+    "bio": "Computer Science Student\r\nSSoC'26 Maintainer\r\nOpen Source Enthusiast\r\nLearning • Building • Contributing",
+    "blog": "https://www.linkedin.com/in/shri-subashini-m-9b76a4356",
     "twitter_username": null,
     "location": null,
-    "public_repos": 18,
-    "followers": 1
+    "public_repos": 22,
+    "followers": 4
   },
   {
     "login": "PratikBhopi",
@@ -138,6 +138,20 @@
     "location": null,
     "public_repos": 40,
     "followers": 2
+  },
+  {
+    "login": "Harshita264",
+    "id": 114824488,
+    "avatar_url": "https://avatars.githubusercontent.com/u/114824488?v=4",
+    "html_url": "https://github.com/Harshita264",
+    "contributions": 13,
+    "name": "Harshita",
+    "bio": null,
+    "blog": "",
+    "twitter_username": null,
+    "location": null,
+    "public_repos": 18,
+    "followers": 1
   },
   {
     "login": "mdashad0",
@@ -180,20 +194,6 @@
     "location": "GORAKHPUR , UTTAR PRADESH",
     "public_repos": 72,
     "followers": 30
-  },
-  {
-    "login": "shri8977",
-    "id": 198091664,
-    "avatar_url": "https://avatars.githubusercontent.com/u/198091664?v=4",
-    "html_url": "https://github.com/shri8977",
-    "contributions": 9,
-    "name": "Shri Subashini M",
-    "bio": "Computer Science Student\r\nSSoC'26 Maintainer\r\nOpen Source Enthusiast\r\nLearning • Building • Contributing",
-    "blog": "https://www.linkedin.com/in/shri-subashini-m-9b76a4356",
-    "twitter_username": null,
-    "location": null,
-    "public_repos": 22,
-    "followers": 4
   },
   {
     "login": "VedantBudhabaware",
@@ -431,7 +431,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 0,
-    "followers": 5419
+    "followers": 5426
   },
   {
     "login": "udaykiran243",
@@ -473,7 +473,7 @@
     "twitter_username": null,
     "location": "Bihar, India",
     "public_repos": 147,
-    "followers": 86
+    "followers": 85
   },
   {
     "login": "Arman-op",
