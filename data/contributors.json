@@ -4,7 +4,7 @@
     "id": 181471078,
     "avatar_url": "https://avatars.githubusercontent.com/u/181471078?v=4",
     "html_url": "https://github.com/Nitya-003",
-    "contributions": 211,
+    "contributions": 212,
     "name": "Nitya Gosain",
     "bio": "CSE student | Intern@CSIR-NPL | DSA enthusiast | Blockchain & Full Stack Developer | Building, learning, and solving one problem at a time.",
     "blog": "",
@@ -122,7 +122,7 @@
     "blog": "https://www.linkedin.com/in/shri-subashini-m-9b76a4356",
     "twitter_username": null,
     "location": null,
-    "public_repos": 22,
+    "public_repos": 23,
     "followers": 4
   },
   {
@@ -179,7 +179,7 @@
     "twitter_username": "madhav_majumdar",
     "location": null,
     "public_repos": 74,
-    "followers": 19
+    "followers": 18
   },
   {
     "login": "Th-Shivam",
@@ -280,6 +280,20 @@
     "followers": 47
   },
   {
+    "login": "khushboo-khatoon",
+    "id": 216391803,
+    "avatar_url": "https://avatars.githubusercontent.com/u/216391803?v=4",
+    "html_url": "https://github.com/khushboo-khatoon",
+    "contributions": 6,
+    "name": "Khushboo Khatoon ",
+    "bio": "Aspiring Java Full Stack Developer | Java | DSA | Frontend Developer | CSE ’2024–2028",
+    "blog": "",
+    "twitter_username": "KhushbooKh69219",
+    "location": "Meerut,UP,india",
+    "public_repos": 64,
+    "followers": 11
+  },
+  {
     "login": "Aditya-18849",
     "id": 201630182,
     "avatar_url": "https://avatars.githubusercontent.com/u/201630182?v=4",
@@ -306,20 +320,6 @@
     "location": null,
     "public_repos": 0,
     "followers": 0
-  },
-  {
-    "login": "khushboo-khatoon",
-    "id": 216391803,
-    "avatar_url": "https://avatars.githubusercontent.com/u/216391803?v=4",
-    "html_url": "https://github.com/khushboo-khatoon",
-    "contributions": 5,
-    "name": "Khushboo Khatoon ",
-    "bio": "Aspiring Java Full Stack Developer | Java | DSA | Frontend Developer | CSE ’2024–2028",
-    "blog": "",
-    "twitter_username": "KhushbooKh69219",
-    "location": "Meerut,UP,india",
-    "public_repos": 64,
-    "followers": 11
   },
   {
     "login": "omkarhole",
@@ -431,7 +431,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 0,
-    "followers": 5426
+    "followers": 5438
   },
   {
     "login": "udaykiran243",
@@ -515,7 +515,7 @@
     "twitter_username": null,
     "location": "Earth",
     "public_repos": 15,
-    "followers": 38
+    "followers": 40
   },
   {
     "login": "GauravKarakoti",
@@ -528,7 +528,7 @@
     "blog": "https://gauravkarakoti.netlify.app",
     "twitter_username": "GauravKara_koti",
     "location": "Delhi , India",
-    "public_repos": 60,
+    "public_repos": 64,
     "followers": 23
   },
   {
