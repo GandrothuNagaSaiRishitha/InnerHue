@@ -4,14 +4,14 @@
     "id": 181471078,
     "avatar_url": "https://avatars.githubusercontent.com/u/181471078?v=4",
     "html_url": "https://github.com/Nitya-003",
-    "contributions": 214,
+    "contributions": 216,
     "name": "Nitya Gosain",
     "bio": "CSE student | Intern@CSIR-NPL | DSA enthusiast | Blockchain & Full Stack Developer | Building, learning, and solving one problem at a time.",
     "blog": "",
     "twitter_username": null,
     "location": null,
     "public_repos": 13,
-    "followers": 58
+    "followers": 59
   },
   {
     "login": "rishima17",
@@ -53,7 +53,7 @@
     "twitter_username": null,
     "location": "New York, United States",
     "public_repos": 42,
-    "followers": 11
+    "followers": 12
   },
   {
     "login": "navin-oss",
@@ -66,7 +66,7 @@
     "blog": "",
     "twitter_username": null,
     "location": "Sangli",
-    "public_repos": 77,
+    "public_repos": 78,
     "followers": 23
   },
   {
@@ -126,6 +126,20 @@
     "followers": 5
   },
   {
+    "login": "PratikBhopi",
+    "id": 159427978,
+    "avatar_url": "https://avatars.githubusercontent.com/u/159427978?v=4",
+    "html_url": "https://github.com/PratikBhopi",
+    "contributions": 13,
+    "name": "Pratik Bhopi",
+    "bio": "Computer Engineer\r\n",
+    "blog": "",
+    "twitter_username": null,
+    "location": null,
+    "public_repos": 40,
+    "followers": 4
+  },
+  {
     "login": "Harshita264",
     "id": 114824488,
     "avatar_url": "https://avatars.githubusercontent.com/u/114824488?v=4",
@@ -138,20 +152,6 @@
     "location": null,
     "public_repos": 18,
     "followers": 1
-  },
-  {
-    "login": "PratikBhopi",
-    "id": 159427978,
-    "avatar_url": "https://avatars.githubusercontent.com/u/159427978?v=4",
-    "html_url": "https://github.com/PratikBhopi",
-    "contributions": 13,
-    "name": "Pratik Bhopi",
-    "bio": "Computer Engineer\r\n",
-    "blog": "",
-    "twitter_username": null,
-    "location": null,
-    "public_repos": 40,
-    "followers": 2
   },
   {
     "login": "mdashad0",
@@ -210,6 +210,20 @@
     "followers": 3
   },
   {
+    "login": "khushboo-khatoon",
+    "id": 216391803,
+    "avatar_url": "https://avatars.githubusercontent.com/u/216391803?v=4",
+    "html_url": "https://github.com/khushboo-khatoon",
+    "contributions": 8,
+    "name": "Khushboo Khatoon ",
+    "bio": "Aspiring Java Full Stack Developer | Java | DSA | Frontend Developer | CSE ’2024–2028",
+    "blog": "",
+    "twitter_username": null,
+    "location": "Meerut,UP,india",
+    "public_repos": 56,
+    "followers": 11
+  },
+  {
     "login": "ARUNNG2004",
     "id": 92279619,
     "avatar_url": "https://avatars.githubusercontent.com/u/92279619?v=4",
@@ -238,20 +252,6 @@
     "followers": 13
   },
   {
-    "login": "khushboo-khatoon",
-    "id": 216391803,
-    "avatar_url": "https://avatars.githubusercontent.com/u/216391803?v=4",
-    "html_url": "https://github.com/khushboo-khatoon",
-    "contributions": 7,
-    "name": "Khushboo Khatoon ",
-    "bio": "Aspiring Java Full Stack Developer | Java | DSA | Frontend Developer | CSE ’2024–2028",
-    "blog": "",
-    "twitter_username": null,
-    "location": "Meerut,UP,india",
-    "public_repos": 56,
-    "followers": 11
-  },
-  {
     "login": "Suvam-paul145",
     "id": 178690510,
     "avatar_url": "https://avatars.githubusercontent.com/u/178690510?v=4",
@@ -266,17 +266,17 @@
     "followers": 24
   },
   {
-    "login": "Shalini828",
-    "id": 221092454,
-    "avatar_url": "https://avatars.githubusercontent.com/u/221092454?v=4",
-    "html_url": "https://github.com/Shalini828",
+    "login": "KolaSailaja",
+    "id": 154894133,
+    "avatar_url": "https://avatars.githubusercontent.com/u/154894133?v=4",
+    "html_url": "https://github.com/KolaSailaja",
     "contributions": 6,
-    "name": "Shalini Kumari",
-    "bio": null,
+    "name": "sailaja kola",
+    "bio": "I am currently pursuing my B. Tech and I am an enthusiastic, fast learner who is always striving to expand my skill set ",
     "blog": "",
     "twitter_username": null,
-    "location": "Delhi, India",
-    "public_repos": 20,
+    "location": null,
+    "public_repos": 48,
     "followers": 1
   },
   {
@@ -294,18 +294,18 @@
     "followers": 47
   },
   {
-    "login": "Aditya-18849",
-    "id": 201630182,
-    "avatar_url": "https://avatars.githubusercontent.com/u/201630182?v=4",
-    "html_url": "https://github.com/Aditya-18849",
-    "contributions": 5,
-    "name": "Aditya Patra",
+    "login": "Shalini828",
+    "id": 221092454,
+    "avatar_url": "https://avatars.githubusercontent.com/u/221092454?v=4",
+    "html_url": "https://github.com/Shalini828",
+    "contributions": 6,
+    "name": "Shalini Kumari",
     "bio": null,
     "blog": "",
     "twitter_username": null,
-    "location": null,
-    "public_repos": 22,
-    "followers": 2
+    "location": "Delhi, India",
+    "public_repos": 20,
+    "followers": 1
   },
   {
     "login": "google-labs-jules[bot]",
@@ -320,6 +320,20 @@
     "location": null,
     "public_repos": 0,
     "followers": 0
+  },
+  {
+    "login": "Aditya-18849",
+    "id": 201630182,
+    "avatar_url": "https://avatars.githubusercontent.com/u/201630182?v=4",
+    "html_url": "https://github.com/Aditya-18849",
+    "contributions": 5,
+    "name": "Aditya Patra",
+    "bio": null,
+    "blog": "",
+    "twitter_username": null,
+    "location": null,
+    "public_repos": 22,
+    "followers": 2
   },
   {
     "login": "omkarhole",
@@ -431,7 +445,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 0,
-    "followers": 5463
+    "followers": 5469
   },
   {
     "login": "udaykiran243",
@@ -446,20 +460,6 @@
     "location": "India",
     "public_repos": 48,
     "followers": 6
-  },
-  {
-    "login": "KolaSailaja",
-    "id": 154894133,
-    "avatar_url": "https://avatars.githubusercontent.com/u/154894133?v=4",
-    "html_url": "https://github.com/KolaSailaja",
-    "contributions": 2,
-    "name": "sailaja kola",
-    "bio": "I am currently pursuing my B. Tech and I am an enthusiastic, fast learner who is always striving to expand my skill set ",
-    "blog": "",
-    "twitter_username": null,
-    "location": null,
-    "public_repos": 48,
-    "followers": 1
   },
   {
     "login": "parthsahay24",
@@ -542,7 +542,7 @@
     "blog": "https://gauravkarakoti.netlify.app",
     "twitter_username": "GauravKara_koti",
     "location": "Delhi , India",
-    "public_repos": 81,
+    "public_repos": 83,
     "followers": 23
   },
   {
