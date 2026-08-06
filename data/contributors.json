@@ -4,14 +4,14 @@
     "id": 181471078,
     "avatar_url": "https://avatars.githubusercontent.com/u/181471078?v=4",
     "html_url": "https://github.com/Nitya-003",
-    "contributions": 216,
+    "contributions": 217,
     "name": "Nitya Gosain",
     "bio": "CSE student | Intern@CSIR-NPL | DSA enthusiast | Blockchain & Full Stack Developer | Building, learning, and solving one problem at a time.",
     "blog": "",
     "twitter_username": null,
     "location": null,
     "public_repos": 13,
-    "followers": 60
+    "followers": 61
   },
   {
     "login": "rishima17",
@@ -66,7 +66,7 @@
     "blog": "",
     "twitter_username": null,
     "location": "Sangli",
-    "public_repos": 78,
+    "public_repos": 80,
     "followers": 23
   },
   {
@@ -122,21 +122,7 @@
     "blog": "https://www.linkedin.com/in/shri-subashini-m-9b76a4356",
     "twitter_username": null,
     "location": null,
-    "public_repos": 23,
-    "followers": 4
-  },
-  {
-    "login": "PratikBhopi",
-    "id": 159427978,
-    "avatar_url": "https://avatars.githubusercontent.com/u/159427978?v=4",
-    "html_url": "https://github.com/PratikBhopi",
-    "contributions": 13,
-    "name": "Pratik Bhopi",
-    "bio": "Computer Engineer\r\n",
-    "blog": "",
-    "twitter_username": null,
-    "location": null,
-    "public_repos": 40,
+    "public_repos": 24,
     "followers": 4
   },
   {
@@ -152,6 +138,20 @@
     "location": null,
     "public_repos": 18,
     "followers": 1
+  },
+  {
+    "login": "PratikBhopi",
+    "id": 159427978,
+    "avatar_url": "https://avatars.githubusercontent.com/u/159427978?v=4",
+    "html_url": "https://github.com/PratikBhopi",
+    "contributions": 13,
+    "name": "Pratik Bhopi",
+    "bio": "Computer Engineer\r\n",
+    "blog": "",
+    "twitter_username": null,
+    "location": null,
+    "public_repos": 40,
+    "followers": 5
   },
   {
     "login": "mdashad0",
@@ -248,7 +248,7 @@
     "blog": "https://portfolio-beta-nine-4um2ztuguj.vercel.app/",
     "twitter_username": null,
     "location": null,
-    "public_repos": 27,
+    "public_repos": 28,
     "followers": 13
   },
   {
@@ -266,17 +266,17 @@
     "followers": 24
   },
   {
-    "login": "KolaSailaja",
-    "id": 154894133,
-    "avatar_url": "https://avatars.githubusercontent.com/u/154894133?v=4",
-    "html_url": "https://github.com/KolaSailaja",
+    "login": "Shalini828",
+    "id": 221092454,
+    "avatar_url": "https://avatars.githubusercontent.com/u/221092454?v=4",
+    "html_url": "https://github.com/Shalini828",
     "contributions": 6,
-    "name": "sailaja kola",
-    "bio": "I am currently pursuing my B. Tech and I am an enthusiastic, fast learner who is always striving to expand my skill set ",
+    "name": "Shalini Kumari",
+    "bio": null,
     "blog": "",
     "twitter_username": null,
-    "location": null,
-    "public_repos": 50,
+    "location": "Delhi, India",
+    "public_repos": 20,
     "followers": 1
   },
   {
@@ -294,18 +294,32 @@
     "followers": 47
   },
   {
-    "login": "Shalini828",
-    "id": 221092454,
-    "avatar_url": "https://avatars.githubusercontent.com/u/221092454?v=4",
-    "html_url": "https://github.com/Shalini828",
+    "login": "KolaSailaja",
+    "id": 154894133,
+    "avatar_url": "https://avatars.githubusercontent.com/u/154894133?v=4",
+    "html_url": "https://github.com/KolaSailaja",
     "contributions": 6,
-    "name": "Shalini Kumari",
+    "name": "sailaja kola",
+    "bio": "I am currently pursuing my B. Tech and I am an enthusiastic, fast learner who is always striving to expand my skill set ",
+    "blog": "",
+    "twitter_username": null,
+    "location": null,
+    "public_repos": 50,
+    "followers": 1
+  },
+  {
+    "login": "Aditya-18849",
+    "id": 201630182,
+    "avatar_url": "https://avatars.githubusercontent.com/u/201630182?v=4",
+    "html_url": "https://github.com/Aditya-18849",
+    "contributions": 5,
+    "name": "Aditya Patra",
     "bio": null,
     "blog": "",
     "twitter_username": null,
-    "location": "Delhi, India",
-    "public_repos": 20,
-    "followers": 1
+    "location": null,
+    "public_repos": 23,
+    "followers": 2
   },
   {
     "login": "google-labs-jules[bot]",
@@ -320,20 +334,6 @@
     "location": null,
     "public_repos": 0,
     "followers": 0
-  },
-  {
-    "login": "Aditya-18849",
-    "id": 201630182,
-    "avatar_url": "https://avatars.githubusercontent.com/u/201630182?v=4",
-    "html_url": "https://github.com/Aditya-18849",
-    "contributions": 5,
-    "name": "Aditya Patra",
-    "bio": null,
-    "blog": "",
-    "twitter_username": null,
-    "location": null,
-    "public_repos": 22,
-    "followers": 2
   },
   {
     "login": "omkarhole",
@@ -445,7 +445,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 0,
-    "followers": 5499
+    "followers": 5503
   },
   {
     "login": "udaykiran243",
@@ -460,6 +460,20 @@
     "location": "India",
     "public_repos": 48,
     "followers": 6
+  },
+  {
+    "login": "Shriraj888",
+    "id": 152815161,
+    "avatar_url": "https://avatars.githubusercontent.com/u/152815161?v=4",
+    "html_url": "https://github.com/Shriraj888",
+    "contributions": 2,
+    "name": "Shriraj",
+    "bio": "Full Stack Developer | Focused on scalable, reliable software and clean engineering practices",
+    "blog": "",
+    "twitter_username": null,
+    "location": null,
+    "public_repos": 16,
+    "followers": 2
   },
   {
     "login": "parthsahay24",
@@ -487,7 +501,7 @@
     "twitter_username": null,
     "location": "Bihar, India",
     "public_repos": 147,
-    "followers": 86
+    "followers": 85
   },
   {
     "login": "Arman-op",
@@ -515,7 +529,7 @@
     "twitter_username": null,
     "location": "SJB Institute of technology,Bengaluru ",
     "public_repos": 10,
-    "followers": 1
+    "followers": 2
   },
   {
     "login": "Dronzer2code",
@@ -585,7 +599,7 @@
     "twitter_username": null,
     "location": "India",
     "public_repos": 22,
-    "followers": 8
+    "followers": 9
   },
   {
     "login": "divi-24",
@@ -598,7 +612,7 @@
     "blog": "",
     "twitter_username": null,
     "location": null,
-    "public_repos": 33,
+    "public_repos": 34,
     "followers": 47
   },
   {
