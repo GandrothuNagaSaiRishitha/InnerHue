@@ -4,7 +4,7 @@
     "id": 181471078,
     "avatar_url": "https://avatars.githubusercontent.com/u/181471078?v=4",
     "html_url": "https://github.com/Nitya-003",
-    "contributions": 217,
+    "contributions": 218,
     "name": "Nitya Gosain",
     "bio": "CSE student | Intern@CSIR-NPL | DSA enthusiast | Blockchain & Full Stack Developer | Building, learning, and solving one problem at a time.",
     "blog": "",
@@ -80,8 +80,8 @@
     "blog": "",
     "twitter_username": null,
     "location": null,
-    "public_repos": 36,
-    "followers": 8
+    "public_repos": 35,
+    "followers": 0
   },
   {
     "login": "vedhapprakashni",
@@ -262,7 +262,7 @@
     "blog": "https://www.suvam.codes",
     "twitter_username": null,
     "location": "Kolkata, West Bengal",
-    "public_repos": 77,
+    "public_repos": 78,
     "followers": 24
   },
   {
@@ -360,7 +360,7 @@
     "blog": "https://kumarayush26.vercel.app/",
     "twitter_username": "notmuchayush",
     "location": "Kolkata",
-    "public_repos": 83,
+    "public_repos": 84,
     "followers": 19
   },
   {
@@ -403,7 +403,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 22,
-    "followers": 11
+    "followers": 12
   },
   {
     "login": "MEHWISH310",
@@ -416,7 +416,7 @@
     "blog": "",
     "twitter_username": null,
     "location": null,
-    "public_repos": 61,
+    "public_repos": 63,
     "followers": 1
   },
   {
@@ -445,7 +445,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 0,
-    "followers": 5513
+    "followers": 5515
   },
   {
     "login": "udaykiran243",
@@ -501,7 +501,21 @@
     "twitter_username": null,
     "location": "Bihar, India",
     "public_repos": 147,
-    "followers": 85
+    "followers": 84
+  },
+  {
+    "login": "arcgod-design",
+    "id": 225413120,
+    "avatar_url": "https://avatars.githubusercontent.com/u/225413120?v=4",
+    "html_url": "https://github.com/arcgod-design",
+    "contributions": 1,
+    "name": "Archit Adish Gupta",
+    "bio": null,
+    "blog": "",
+    "twitter_username": null,
+    "location": null,
+    "public_repos": 35,
+    "followers": 2
   },
   {
     "login": "Arman-op",
@@ -542,7 +556,7 @@
     "blog": "",
     "twitter_username": null,
     "location": "Earth",
-    "public_repos": 15,
+    "public_repos": 16,
     "followers": 40
   },
   {
@@ -556,7 +570,7 @@
     "blog": "https://gauravkarakoti.netlify.app",
     "twitter_username": "GauravKara_koti",
     "location": "Delhi , India",
-    "public_repos": 87,
+    "public_repos": 88,
     "followers": 25
   },
   {
