@@ -11,7 +11,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 15,
-    "followers": 62
+    "followers": 63
   },
   {
     "login": "rishima17",
@@ -179,7 +179,7 @@
     "twitter_username": "madhav_majumdar",
     "location": null,
     "public_repos": 74,
-    "followers": 20
+    "followers": 21
   },
   {
     "login": "Th-Shivam",
@@ -206,7 +206,7 @@
     "blog": "https://portfolio-eight-ruby-81.vercel.app",
     "twitter_username": null,
     "location": "India",
-    "public_repos": 31,
+    "public_repos": 32,
     "followers": 3
   },
   {
@@ -360,7 +360,7 @@
     "blog": "https://kumarayush26.vercel.app/",
     "twitter_username": "notmuchayush",
     "location": "Kolkata",
-    "public_repos": 88,
+    "public_repos": 89,
     "followers": 22
   },
   {
@@ -445,7 +445,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 0,
-    "followers": 5721
+    "followers": 5726
   },
   {
     "login": "udaykiran243",
@@ -556,7 +556,7 @@
     "blog": "",
     "twitter_username": null,
     "location": "Earth",
-    "public_repos": 16,
+    "public_repos": 14,
     "followers": 42
   },
   {
@@ -612,8 +612,8 @@
     "blog": "https://portfolio-yk28.vercel.app/",
     "twitter_username": null,
     "location": "India",
-    "public_repos": 23,
-    "followers": 6
+    "public_repos": 24,
+    "followers": 5
   },
   {
     "login": "divi-24",
@@ -654,7 +654,7 @@
     "blog": "",
     "twitter_username": null,
     "location": null,
-    "public_repos": 85,
+    "public_repos": 86,
     "followers": 3
   }
 ]
