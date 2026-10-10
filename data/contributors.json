@@ -347,7 +347,7 @@
     "twitter_username": null,
     "location": "india",
     "public_repos": 73,
-    "followers": 13
+    "followers": 12
   },
   {
     "login": "ayushkumar2601",
@@ -360,7 +360,7 @@
     "blog": "https://kumarayush26.vercel.app/",
     "twitter_username": "notmuchayush",
     "location": "Kolkata",
-    "public_repos": 94,
+    "public_repos": 95,
     "followers": 25
   },
   {
@@ -445,7 +445,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 0,
-    "followers": 5877
+    "followers": 5885
   },
   {
     "login": "udaykiran243",
@@ -654,7 +654,7 @@
     "blog": "",
     "twitter_username": null,
     "location": null,
-    "public_repos": 87,
+    "public_repos": 88,
     "followers": 5
   }
 ]
