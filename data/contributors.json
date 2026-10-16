@@ -10,7 +10,7 @@
     "blog": "",
     "twitter_username": null,
     "location": null,
-    "public_repos": 14,
+    "public_repos": 15,
     "followers": 66
   },
   {
@@ -66,7 +66,7 @@
     "blog": "",
     "twitter_username": null,
     "location": "Sangli",
-    "public_repos": 82,
+    "public_repos": 84,
     "followers": 24
   },
   {
@@ -188,12 +188,12 @@
     "html_url": "https://github.com/Th-Shivam",
     "contributions": 9,
     "name": "Shivam Singh",
-    "bio": "Software Developer | CSE undergrad @ VIT Bhopal | Passionate about coding, problem-solving, and tech innovation.\r\n",
+    "bio": "Software Developer | CSE undergrad @ VIT  | Passionate about coding, problem-solving, and tech innovation.\r\n",
     "blog": "https://www.thakurshivamsingh.me",
     "twitter_username": null,
     "location": "GORAKHPUR , UTTAR PRADESH",
-    "public_repos": 93,
-    "followers": 40
+    "public_repos": 94,
+    "followers": 41
   },
   {
     "login": "VedantBudhabaware",
@@ -220,8 +220,8 @@
     "blog": "",
     "twitter_username": null,
     "location": "Meerut,UP,india",
-    "public_repos": 16,
-    "followers": 11
+    "public_repos": 18,
+    "followers": 10
   },
   {
     "login": "ARUNNG2004",
@@ -346,7 +346,7 @@
     "blog": "https://www.omkarhole.xyz/",
     "twitter_username": null,
     "location": "india",
-    "public_repos": 74,
+    "public_repos": 75,
     "followers": 13
   },
   {
@@ -445,7 +445,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 0,
-    "followers": 5914
+    "followers": 5924
   },
   {
     "login": "udaykiran243",
@@ -570,7 +570,7 @@
     "blog": "https://gauravkarakoti.netlify.app",
     "twitter_username": "GauravKara_koti",
     "location": "Delhi , India",
-    "public_repos": 79,
+    "public_repos": 78,
     "followers": 28
   },
   {
