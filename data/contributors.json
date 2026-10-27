@@ -262,8 +262,8 @@
     "blog": "",
     "twitter_username": null,
     "location": "Kolkata, West Bengal",
-    "public_repos": 84,
-    "followers": 26
+    "public_repos": 77,
+    "followers": 27
   },
   {
     "login": "Shalini828",
@@ -347,7 +347,7 @@
     "twitter_username": null,
     "location": "india",
     "public_repos": 75,
-    "followers": 14
+    "followers": 15
   },
   {
     "login": "ayushkumar2601",
@@ -360,7 +360,7 @@
     "blog": "https://kumarayush26.vercel.app/",
     "twitter_username": "notmuchayush",
     "location": "Kolkata",
-    "public_repos": 95,
+    "public_repos": 96,
     "followers": 25
   },
   {
@@ -445,7 +445,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 0,
-    "followers": 5976
+    "followers": 5988
   },
   {
     "login": "udaykiran243",
@@ -654,7 +654,7 @@
     "blog": "",
     "twitter_username": null,
     "location": null,
-    "public_repos": 92,
+    "public_repos": 93,
     "followers": 6
   }
 ]
