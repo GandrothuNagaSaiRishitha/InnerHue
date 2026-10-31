@@ -11,7 +11,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 15,
-    "followers": 68
+    "followers": 66
   },
   {
     "login": "rishima17",
@@ -24,7 +24,7 @@
     "blog": "https://rishima-portfolio.vercel.app/",
     "twitter_username": "Rishima_17",
     "location": "Amritsar,Punjab",
-    "public_repos": 24,
+    "public_repos": 26,
     "followers": 19
   },
   {
@@ -398,7 +398,7 @@
     "html_url": "https://github.com/GandrothuNagaSaiRishitha",
     "contributions": 3,
     "name": "Gandrothu Naga Sai Rishitha ",
-    "bio": "Distributed Systems and AI ",
+    "bio": "A fellow Gopher and AI ",
     "blog": "",
     "twitter_username": null,
     "location": null,
@@ -445,7 +445,7 @@
     "twitter_username": null,
     "location": null,
     "public_repos": 0,
-    "followers": 6013
+    "followers": 6030
   },
   {
     "login": "udaykiran243",
@@ -556,7 +556,7 @@
     "blog": "",
     "twitter_username": null,
     "location": "Earth",
-    "public_repos": 20,
+    "public_repos": 21,
     "followers": 45
   },
   {
@@ -570,7 +570,7 @@
     "blog": "https://gauravkarakoti.netlify.app",
     "twitter_username": "GauravKara_koti",
     "location": "Delhi , India",
-    "public_repos": 76,
+    "public_repos": 77,
     "followers": 28
   },
   {
@@ -626,7 +626,7 @@
     "blog": "",
     "twitter_username": null,
     "location": null,
-    "public_repos": 36,
+    "public_repos": 37,
     "followers": 47
   },
   {
@@ -654,7 +654,7 @@
     "blog": "",
     "twitter_username": null,
     "location": null,
-    "public_repos": 94,
+    "public_repos": 95,
     "followers": 6
   }
 ]
